@@ -1,0 +1,23 @@
+Eric Dungey 224 346 2631 15 6
+Drew Lock 137 257 1995 20 1
+Austin Allen 155 249 2048 18 7
+Tyler Rogers 155 279 1994 11 10
+Kenny Hill 180 287 2290 13 9
+Patrick Mahomes II 246 260 3313 26 6
+Brent Stockstill 202 317 2371 22 5
+Luke Falk 253 348 2511 19 5
+Mitch Trubisky 203 285 2378 18 2
+Phillip Walker 132 231 1791 11 10
+Quinton Flowers 136 229 1941 17 5
+Deshaun Watson 164 258 1950 20 8
+Aaron Rodgers 209 316 2566 24 8
+Jerod Evans 141 226 2017 21 2
+Ryan Higgins 190 279 2622 24 3
+Baker Mayfield 152 213 2348 23 5
+Cooper Rush 167 274 2289 19 8
+Chad Kelly 153 246 2067 15 7
+Brett Rypien 137 219 2064 15 5
+Chason Virgil 165 321 2013 13 10
+
+
+
